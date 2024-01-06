@@ -20,7 +20,8 @@ Simple little homepage, had enough of the original one and made a new one
 ### Functions
 
 - [x] Loading animation
-- [x] Site description
+- [x] Site descriptionasd
+- [ ] 
 - [x] Hitokoto
 - [x] Date and time
 - [x] Live weather
@@ -99,7 +100,7 @@ Now using `HarmonyOS Sans` open source font, using font splitting to improve loa
 
 - Install `Python 3.7` and `pip`
 - Run `pip install fonttools`
-- Download [sc_unicode.txt](https://gist.githubusercontent.com/imaegoo/d64e5088b723c2e02c40985f55ff12db/raw/5ebd2ce49418c73459a9dfe050483409306a6c1d/sc_unicode.txt)
+- Download [sc_unicode.txt](https://usercontent.githubfast.com/gist/imaegoo/d64e5088b723c2e02c40985f55ff12db/raw/5ebd2ce49418c73459a9dfe050483409306a6c1d/sc_unicode.txt)
 - Run `pyftsubset font-name.ttf --unicodes-file=sc_unicode.txt`
 
 #### fonts further compressed
@@ -108,7 +109,7 @@ Now using `HarmonyOS Sans` open source font, using font splitting to improve loa
 
 ```bash
 sudo apt-get install -y git g++ make
-git clone --recursive https://github.com/google/woff2.git
+git clone --recursive https://githubfast.com/google/woff2.git
 cd woff2
 make clean all
 ```
